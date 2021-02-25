@@ -1,0 +1,14 @@
+mkdir folder name 
+ls list file 
+cd folder name
+touch file :- new file name
+cat file>read the file
+vi>>edit the file
+esc shift+--wq
+git init >>create file
+git status
+git add .
+git commit -m 
+git remote add origin repo
+git push -u origin master
+
